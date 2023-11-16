@@ -11,7 +11,7 @@ public class PlayerInput : MonoBehaviour
     
     private float horizontalInput;
     private PlayerMovement playerMovement;
-     public float movementSpeed=5f;
+     public float movementSpeed=4f;
     private bool jumpPressed; 
 
     // Start is called before the first frame update
